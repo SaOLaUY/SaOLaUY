@@ -1,5 +1,5 @@
 ## Buenas 👋
-Me llamo Santiago Álvarez, tengo 19 años y estoy actualmente cursando la carrera Licenciatura en Sistemas en la universidad ORT Uruguay. Tengo buena experiencia programando proyectos escolares en Java, Bash, HTML - CSS - JS.
+Me llamo Santiago Álvarez, tengo 19 años y estoy actualmente cursando la carrera Licenciatura en Sistemas en la universidad ORT Uruguay. Tengo buena experiencia programando proyectos escolares en Java, C#, C++, Bash, HTML - CSS - JS.
 
 <!--
 **SaOLauwu/SaOLauwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
